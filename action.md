@@ -1,3 +1,6 @@
-### Action 1
+---
+layout: page
+title: Actions
+---
 
 - Connect to internet
